@@ -1,0 +1,339 @@
+
+{
+    "banco_de_imagens":[
+        {
+            "url_todos_ddi": "http://localhost/projetos/ex01/backend/banco-de-imagens/bandeiras-todos-pais/",
+            "url_ddi_repetidos":"http://localhost/projetos/ex01/backend/banco-de-imagens/bandeira-ddi_repetidos/"
+        }
+    ],
+
+    "ddi_todos_paises":[
+        {
+            "id": "0",
+            "nome_pais": "Afeganistão",
+            "ddi_pais": "93",
+            "bandeira_imagem_nome": "Afeganistão.webp"
+        },
+        {
+            "id": "1",
+            "nome_pais": "África do Sul",
+            "ddi_pais": "27",
+            "bandeira_imagem_nome": "África do Sul.webp"
+        },
+        {
+            "id": "2",
+            "nome_pais": "Albânia",
+            "ddi_pais": "355",
+            "bandeira_imagem_nome": "Albânia.webp"
+        },
+        {
+            "id": "3",
+            "nome_pais": "Alemanha",
+            "ddi_pais": "49",
+            "bandeira_imagem_nome": "Alemanha.webp"
+        },
+        {
+            "id": "4",
+            "nome_pais": "Andorra",
+            "ddi_pais": "376",
+            "bandeira_imagem_nome": "Andorra.webp"
+        },
+        {
+            "id": "5",
+            "nome_pais": "Angola",
+            "ddi_pais": "244",
+            "bandeira_imagem_nome": "Angola.webp"
+        },
+        {
+            "id": "6",
+            "nome_pais": "Anguilla",
+            "ddi_pais": "1",
+            "bandeira_imagem_nome": "Anguilla.png"
+        },
+        {
+            "id": "7",
+            "nome_pais": "Antígua e Barbuda",
+            "ddi_pais": "1",
+            "bandeira_imagem_nome": "Antígua e Barbuda.webp"
+        },
+        {
+            "id": "8",
+            "nome_pais": "Antilhas Holandesas",
+            "ddi_pais": "599",
+            "bandeira_imagem_nome": "Antilhas Holandesas.png"
+        },
+        {
+            "id": "9",
+            "nome_pais": "Argélia",
+            "ddi_pais": "966",
+            "bandeira_imagem_nome": "Argélia.webp"
+        },
+        {
+            "id": "10",
+            "nome_pais": "Argentina",
+            "ddi_pais": "54",
+            "bandeira_imagem_nome": "Argentina.webp"
+        },
+        {
+            "id": "11",
+            "nome_pais": "Armênia",
+            "ddi_pais": "374",
+            "bandeira_imagem_nome": "Armênia.webp"
+        },
+        {
+            "id": "12",
+            "nome_pais": "Aruba",
+            "ddi_pais": "297",
+            "bandeira_imagem_nome": "Aruba.webp"
+        },
+        {
+            "id": "13",
+            "nome_pais": "Ascensão",
+            "ddi_pais": "297",
+            "bandeira_imagem_nome": "Ascensão.png"
+        },
+        {
+            "id": "14",
+            "nome_pais": "Austrália",
+            "ddi_pais": "247",
+            "bandeira_imagem_nome": "Austrália.webp"
+        },
+        {
+            "id": "15",
+            "nome_pais": "Áustria",
+            "ddi_pais": "61",
+            "bandeira_imagem_nome": "Áustria.webp"
+        },
+        {
+            "id": "16",
+            "nome_pais": "Azerbaijão",
+            "ddi_pais": "43",
+            "bandeira_imagem_nome": "Azerbaijão.webp"
+        },
+        {
+            "id": "17",
+            "nome_pais": "Bahamas",
+            "ddi_pais": "994",
+            "bandeira_imagem_nome": "Bahamas.webp"
+        },
+        {
+            "id": "18",
+            "nome_pais": "Bangladesh",
+            "ddi_pais": "1",
+            "bandeira_imagem_nome": "Bangladesh.webp"
+        },
+        {
+            "id": "19",
+            "nome_pais": "Barbados",
+            "ddi_pais": "880",
+            "bandeira_imagem_nome": "Barbados.webp"
+        },
+        {
+            "id": "20",
+            "nome_pais": "Bahrein",
+            "ddi_pais": "973",
+            "bandeira_imagem_nome": "Bahrein.png"
+        },
+        {
+            "id": "21",
+            "nome_pais": "Bélgica",
+            "ddi_pais": "32",
+            "bandeira_imagem_nome": "Bélgica.webp"
+        },
+        {
+            "id": "22",
+            "nome_pais": "Belize",
+            "ddi_pais": "501",
+            "bandeira_imagem_nome": "Belize.webp"
+        },
+        {
+            "id": "23",
+            "nome_pais": "Benim",
+            "ddi_pais": "299",
+            "bandeira_imagem_nome": "Benim.webp"
+        },
+        {
+            "id": "24",
+            "nome_pais": "Bermudas",
+            "ddi_pais": "1",
+            "bandeira_imagem_nome": "Bermudas.webp"
+        },
+        {
+            "id": "25",
+            "nome_pais": "Bielorrússia",
+            "ddi_pais": "375",
+            "bandeira_imagem_nome": "Bielorrússia.webp"
+        },
+        {
+            "id": "26",
+            "nome_pais": "Bolívia",
+            "ddi_pais": "591",
+            "bandeira_imagem_nome": "Bolívia.webp"
+        },
+        {
+            "id": "27",
+            "nome_pais": "Bósnia e Herzegovina",
+            "ddi_pais": "387",
+            "bandeira_imagem_nome": "Bósnia e Herzegovina.webp"
+        },
+        {
+            "id": "28",
+            "nome_pais": "Botswana",
+            "ddi_pais": "267",
+            "bandeira_imagem_nome": "Botswana.webp"
+        },
+        {
+            "id": "29",
+            "nome_pais": "Brasil",
+            "ddi_pais": "55",
+            "bandeira_imagem_nome": "Brasil.webp"
+        },
+        {
+            "id": "30",
+            "nome_pais": "Brunei",
+            "ddi_pais": "673",
+            "bandeira_imagem_nome": "Brunei.webp"
+        },
+        {
+            "id": "31",
+            "nome_pais": "Bulgária",
+            "ddi_pais": "359",
+            "bandeira_imagem_nome": "Bulgária.webp"
+        }
+        
+        
+    ],
+    
+    "ddi_paises_com_ddi_repetidos": [
+        [
+            {
+                "nome_pais": "Anguila",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Anguila.webp"
+            },
+            {
+                "nome_pais": "Antígua e Barbuda",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Antígua e Barbuda.webp"
+            },
+            {
+                "nome_pais": "Bahamas",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Bahamas.png"
+            },
+            {
+                "nome_pais": "Barbados",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Barbados.webp"
+            },
+            {
+                "nome_pais": "Bermudas",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Bermudas.webp"
+            },
+            {
+                "nome_pais": "Canadá",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Canadá"
+            },
+            {
+                "nome_pais": "Dominica",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Dominica.webp"
+            },
+            {
+                "nome_pais": "Estados Unidos",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Estados Unidos"
+            },
+            {
+                "nome_pais": "Granada",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Granada.png"
+            },
+            {
+                "nome_pais": "Guam",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Guam.webp"
+            },
+            {
+                "nome_pais": "Guam",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Guam.webp"
+            },
+            {
+                "nome_pais": "Ilhas Caimã",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Ilhas Caimã.png"
+            },
+            {
+                "nome_pais": "Ilhas Marianas do Norte",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Ilhas Marianas do Norte.webp"
+            },
+            {
+                "nome_pais": "Ilhas Virgens Americanas",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Ilhas Virgens Americanas.webp"
+            },
+            {
+                "nome_pais": "Ilhas Virgens Britânicas",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Ilhas Virgens Britânicas.webp"
+            },
+            {
+                "nome_pais": "Jamaica",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Jamaica.webp"
+            },
+            {
+                "nome_pais": "Monserrate",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Monserrate.webp"
+            },
+            {
+                "nome_pais": "Porto Rico",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Porto Rico.webp"
+            },
+            {
+                "nome_pais": "República Dominicana",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "República Dominicana.webp"
+            },
+            {
+                "nome_pais": "São Martinho",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "São Martinho.webp"
+            },
+            {
+                "nome_pais": "São Vicente e Granadinas",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "São Vicente e Granadinas.webp"
+            },
+            {
+                "nome_pais": "Samoa Americana",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Samoa Americana.webp"
+            },
+            {
+                "nome_pais": "Santa Lúcia",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Santa Lúcia.webp"
+            },
+            {
+                "nome_pais": "Trindade e Tobago",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Trindade e Tobago.png"
+            },
+            {
+                "nome_pais": "Turcas e Caicos.webp",
+                "ddi_pais": "1",
+                "bandeira_imagem_nome": "Turcas e Caicos.webp"
+            }
+        ]
+
+
+
+    ]
+}

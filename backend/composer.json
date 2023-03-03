@@ -1,0 +1,17 @@
+{
+    "name": "brend/backend",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brendo Kildere",
+            "email": "kilderebrendo8080@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3"
+    }
+}
